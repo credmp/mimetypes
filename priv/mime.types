@@ -1336,6 +1336,9 @@ text/cache-manifest				manifest
 # text/1d-interleaved-parityfec
 text/calendar					ics ifb
 text/css					css
+text/css					less
+text/less					less
+text/x-less					less
 text/csv					csv
 # text/directory
 # text/dns
